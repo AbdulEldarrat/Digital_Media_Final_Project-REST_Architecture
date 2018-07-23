@@ -12,4 +12,4 @@ A brief summary of the purpose and content of the tutorial.
 * How to create a RESTful web API
 
 A description of the target audience for the tutorial.
-## The target audence which this tutorial aims to speak to is that of mostly IT professionals and students in the CS and IT diciplines
+### The target audence which this tutorial aims to speak to is that of mostly IT professionals and students in the CS and IT diciplines
