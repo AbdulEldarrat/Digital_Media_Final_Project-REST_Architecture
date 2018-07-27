@@ -10,5 +10,5 @@
 
 
 * [Home](https://github.com/AbdulEldarrat/Digital_Media_Final_Project-REST_Architecture/blob/master/README.md)
-* [The benifits to using a RESTful architectural style](https://github.com/AbdulEldarrat/Digital_Media_Final_Project-REST_Architecture/blob/master/What%20is%20a%20RESTful%20web%20service%3F.md)
+* [The benifits to using a RESTful architectural style](https://github.com/AbdulEldarrat/Digital_Media_Final_Project-REST_Architecture/blob/master/RESTful%20benefits.md)
 * [How to create a RESTful web API](https://github.com/AbdulEldarrat/Digital_Media_Final_Project-REST_Architecture/blob/master/How%20to%20create%20a%20RESTful%20API)
