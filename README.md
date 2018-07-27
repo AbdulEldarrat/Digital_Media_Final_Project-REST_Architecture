@@ -4,7 +4,7 @@
 ### by: Abdulrahman Eldarrat
 
 ### The purpose of this tutorial is to educate the reader on the following
-* [What a RESTful web API is](WhatisaRESTfulwebservice?.md)
+* [What a RESTful web API is](What_is_a_RESTful_webservice?.md)
 * [The benifits to using a RESTful architectural style](/RESTfulbenefits.md)
 * [How to create a RESTful web API](/)
 
