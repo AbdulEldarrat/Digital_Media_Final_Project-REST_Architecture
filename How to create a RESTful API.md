@@ -69,3 +69,12 @@ And thats it! you now have a RESTful api which will accept HTTP `GET` requests a
    
 And the response will be a greeting in JSON that will look like this
     `{"id":1,"content":"Hello, World!"}`
+    
+    
+    
+    
+    
+    
+* [What a RESTful web API is](https://github.com/AbdulEldarrat/Digital_Media_Final_Project-REST_Architecture/blob/master/What%20is%20a%20RESTful%20web%20service%3F.md)
+* [The benifits to using a RESTful architectural style](https://github.com/AbdulEldarrat/Digital_Media_Final_Project-REST_Architecture/blob/master/RESTful%20benefits.md)
+* [Home](https://github.com/AbdulEldarrat/Digital_Media_Final_Project-REST_Architecture/blob/master/README.md)
