@@ -65,7 +65,7 @@ import org.springframework.web.bind.annotation.RestController;
     
 
 And thats it! you now have a RESTful api which will accept HTTP `GET` requests at 
-   `http://localhost:8080/greeting1`
+   `http://localhost:8080/greeting1` greeting1 being the object sent back
    
 And the response will be a greeting in JSON that will look like this
     `{"id":1,"content":"Hello, World!"}`
