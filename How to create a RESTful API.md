@@ -24,3 +24,19 @@
             return content;
         }
     }
+
+*Next* - We need to create the application class which will startup the application, this class is usually autocreated in the Spring IDE, however, if you are developing in another IDE you will need to create this yourself
+
+package hello;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Application {
+
+    public static void main(String[] args) {
+        SpringApplication.run(Application.class, args);
+    }
+}
+
