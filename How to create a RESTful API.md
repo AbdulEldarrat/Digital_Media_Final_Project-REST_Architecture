@@ -4,7 +4,6 @@
 
 *First* - We create a Greeting class which will model the greeting object we will send to the endpoint
 
-`
     package hello;
 
     public class Greeting {
@@ -25,4 +24,3 @@
             return content;
         }
     }
-`
