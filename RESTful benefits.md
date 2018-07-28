@@ -7,3 +7,4 @@
 
 * [What a RESTful web API is](https://github.com/AbdulEldarrat/Digital_Media_Final_Project-REST_Architecture/blob/master/What%20is%20a%20RESTful%20web%20service%3F.md)
 * [How to create a RESTful web API](https://github.com/AbdulEldarrat/Digital_Media_Final_Project-REST_Architecture/blob/master/How%20to%20create%20a%20RESTful%20API)
+* [Home](https://github.com/AbdulEldarrat/Digital_Media_Final_Project-REST_Architecture/blob/master/README.md)
